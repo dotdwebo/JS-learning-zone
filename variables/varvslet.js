@@ -1,13 +1,10 @@
-let x = 'let outside';
-// var x = 'var outside';
 
 
-function test(x){
 
-    
-    console.log(x);
+function test(){
+let x = 1;    
 }
 
-test();
+console.log(x);
 
 
