@@ -2,7 +2,7 @@
 var x = 'var outside';
 
 
-function test(){
+function test(x){
 
     
     console.log(x);
