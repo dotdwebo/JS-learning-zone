@@ -1,5 +1,5 @@
-// let x = 'let outside';
-var x = 'var outside';
+let x = 'let outside';
+// var x = 'var outside';
 
 
 function test(x){
