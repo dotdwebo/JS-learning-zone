@@ -1,7 +1,7 @@
 function test(){
 
-    let go = () => {
-        let x = 'Hello World';
+    let go = (x) => {
+          x = 'Hello World';
         console.log(x);
     }
 
