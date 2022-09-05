@@ -9,6 +9,10 @@ function hi(){
 // variable hoisting
 
 console.log(g); //undefined
-//let g // referrence error declaration
-var g ; //undefined
-g = 'Good Morning'; //initialization
+//let g //  declaration | result: ReferenceError
+var g ; //declatration | result: undefined
+g = 'Good Morning'; //initialization (assigning value)
+
+a = 1;
+b = 2;
+console.log(a,b); // not hoisted
