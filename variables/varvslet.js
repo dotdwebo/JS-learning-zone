@@ -1,11 +1,13 @@
-
-
-
 function test(){
-let x = 1;
-var y = 2;    
+
+    let go = (x) => {
+        let x = 'Hello World';
+        console.log(x);
+    }
+
+    return go();
 }
 
-console.log(y);
+test();
 
 
