@@ -1,6 +1,6 @@
 function test(){
 
-    let go = (x) => {
+    let go = () => {
         let x = 'Hello World';
         console.log(x);
     }
