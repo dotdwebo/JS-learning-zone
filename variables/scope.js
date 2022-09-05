@@ -5,12 +5,14 @@ function hit(){
     console.log(hey, yoo);
 
     {
-        var wow = "Wow, I am in a function scope!";
+        // var wow = "Wow, I am in a function scope!";
+        let wow = "Wow, I am in a function scope!";
         // let rawr = "Rawr, I am excited!";
     }
 
     if(true){
-        let rawr = "Rawr, I am in a block scope!";
+        // let rawr = "Rawr, I am in a block scope!";
+        var rawr = "Rawr, I am in a block scope!";
         console.log(rawr);
     }
 
