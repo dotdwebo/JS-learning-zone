@@ -3,9 +3,17 @@
  * code execution reaches the line where the variable is declared and initialized.
  */
 
+// {
+//     console.log(a); //undefined
+//     console.log(b); // Reference Error
+//     var a = "Using Var";
+//     let b = "Using Let";
+// }
+
 {
-    console.log(a); //undefined
-    console.log(b); // Reference Error
-    var a = "Using Var";
-    let b = "Using Let";
+    const func = () => console.log(varLet); // START of TDZ (inside scope)
+
+    let varLet = 99; // END of TDZ (declaration and initialization)
+    func(); // function is called outside TDZ
 }
+
