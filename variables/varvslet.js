@@ -9,12 +9,4 @@ function test(){
 
 test();
 
-function test2(){
-    var x = 'var Inside';
-    console.log(x);
-}
-
-test2();
-
-// console.log(x); //ReferenceError: x is not defined. | old: test.
 
