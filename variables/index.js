@@ -4,8 +4,14 @@ const z = 'This is a constant';
 
  x = 99;
  y = true;
- z = 1;
+//  z = 1; //error
+
+
+ function callx(x){
+    console.log('I call var x! Wanna know the result. Result: '+x)
+ }
 
 console.log(x);
 console.log(y);
-console.log(z); //error
+callx();
+// console.log(z); //error
