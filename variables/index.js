@@ -8,6 +8,7 @@ const z = 'This is a constant';
 
 
  function callx(x){
+    var x = 1;
     console.log('I call var x! Wanna know the result. Result: '+x)
  }
 
