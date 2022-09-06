@@ -14,7 +14,12 @@ console.log(pi);
 }
 
 let x = 0;
-while (x < 10) {
+while (x < 5) {
 
     console.log(x++); 
 }
+
+if(1 === 1){
+    console.log('Hi!')
+}
+
