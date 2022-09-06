@@ -31,9 +31,15 @@ var z = "outside blockstatement";
 
 console.log(z); // inside blockstatement | Potential Problem: scoping effect.
 
+// let w = 0;
+// while(w < 7){
+//     let w = 3; // Forever Loop!
+//     console.log(w++);
+// }
+
+
 let w = 0;
 while(w < 7){
-    let w = 3; // Forever Loop!
+    var w = 3; //SyntaxError
     console.log(w++);
 }
-
