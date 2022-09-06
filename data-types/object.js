@@ -17,4 +17,5 @@ console.log(typeof [1,2,3,4,5]); //object
 //console.log(typeof {1,2,3,4,5}); // SyntaxError: Unexpected number
 
 console.log(obj[0]); //undefined
-console.log(obj['name']); //statement
+console.log(obj['name']); //Satoshi
+console.log(obj[innovation]); // ReferenceError. Removing quote.
