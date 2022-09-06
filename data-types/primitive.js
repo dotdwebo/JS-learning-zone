@@ -36,3 +36,4 @@ if(sym2 === sym3) {
 }else{
     console.log('Not same');
 }
+
