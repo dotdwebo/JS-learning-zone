@@ -14,4 +14,5 @@ console.log(typeof data); //object
 console.log(data); // [1,2,3,4];
 
 console.log(typeof [1,2,3,4,5]); //object
-console.log(typeof {1,2,3,4,5}); // SyntaxError: Unexpected number
+//console.log(typeof {1,2,3,4,5}); // SyntaxError: Unexpected number
+
