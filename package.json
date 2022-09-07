@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dotdwebo/JS-learning-zone/issues"
   },
-  "homepage": "https://github.com/dotdwebo/JS-learning-zone#readme"
+  "homepage": "https://github.com/dotdwebo/JS-learning-zone#readme",
+  "dependencies": {
+    "generate-changelog": "^1.8.0"
+  }
 }
