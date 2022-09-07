@@ -3,3 +3,9 @@ function sayHi(){
 }
 
 sayHi();
+
+function hello(){
+    console.log("Hello world!");
+}
+
+hello(); //hello world.
