@@ -1,0 +1,22 @@
+{
+  "name": "js-learning-zone",
+  "version": "1.0.0",
+  "description": "A Boring JS Learning Zone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotdwebo/JS-learning-zone.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "dwebo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dotdwebo/JS-learning-zone/issues"
+  },
+  "homepage": "https://github.com/dotdwebo/JS-learning-zone#readme"
+}
