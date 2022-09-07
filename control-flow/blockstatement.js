@@ -38,8 +38,8 @@ console.log(z); // inside blockstatement | Potential Problem: scoping effect.
 // }
 
 
-let w = 0;
-while(w < 7){
-    var w = 3; //SyntaxError
-    console.log(w++);
-}
+// let w = 0;
+// while(w < 7){
+//     var w = 3; //SyntaxError | Redeclare an identifier
+//     console.log(w++);
+// }
