@@ -22,3 +22,13 @@ function number(n){
 
 number(1); //It's an odd number
 number(2); //It's an even number
+
+function string(n){
+    if(typeof n === "string"){
+        console.log(true);
+    }else {
+        console.log(false);
+    }
+}
+
+string("hi");
