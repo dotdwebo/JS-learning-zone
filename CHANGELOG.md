@@ -1,0 +1,80 @@
+- created a changelog
+- sample of a function
+- Create algorithm folder & file
+- Created function.js
+- edit README.md
+- Created folder & file about cryptography
+- Redeclare an identifier
+- Forever loop! program read the var inside the scope
+- conditional statement
+- ReferenceError. Removing quotes.
+- undefined if calling using index on an object
+- Edit README.md
+- Potential Problem: Scoping Effect
+- if in blockstatement
+- while for blockstatement
+- Example of Block Statement
+- Syntax Error: Unexpected Number
+- Create an object and array.
+- Remove date()
+- Examples of primitive data types
+- Create primitive.js file
+- Delete primitive-variables.js file
+- Create a primitive-variables.js file.
+- Function called outside TDZ
+- Let is TDZ
+- Temporal Dead Zone
+- use a constant before declaration & initialization. Result: ReferenceError
+- not hoisted if variable initialized before used
+- result of variable hoisting: var -> undefined, let -> ReferenceError
+- Created a function hoisting
+- create hoisting.js file
+- Put const in function scope and got a Reference Error. As i thought.
+- put let in function scope and got a Reference Error.
+- var in function scope and let in block scope
+- Created var and let inside function scope. Got an Reference Error on let.
+- Created a hit()function and added var hey and let yoo in it.
+- Created scope.js file
+- Remove var before go and go becomes a function that can be called outside the main function.
+- input parameter (x) and remove let inside the function.
+- Removed x as a parameter in variable go. Code works.
+- Got a Syntax error. An identifier 'x' has already been declared.
+- added var y inside the function and called from outside the function. Got Undefined Error.
+- removed the x parameter in the function, removed all variables outside the function. Defined let x inside the function. Called the variable from outside the function. Got an error.
+- Commented var outside the function and uncommented let outside the function. Got an Undefined Error.
+- Add parameter x in test() function without defining the variable inside the function. Got error.
+- Changed let to var outside the function.
+- deleted variable inside function. Function called variable outside its scope.
+- deleted test2() function
+- Only calling variable inside the function
+- Learning Referrence Error
+- Rename the function from function callx() to call(). Remove a parameter from the function. Console.log the variables and constants outside the function. Result: Success
+- Create a new variable with the same name (var x)inside a function and called the function. Result: success.
+- Called a variable from global scope to local scope and got error.
+- Assigned new value in var x, let y, and const z. Got error in cons z. However, it's a constant, right?
+- Add const z
+- Add var x and y
+- testing. Can i call git inside a folder? Let's try
+- Create chrome-dev-tools folder & create README.md in its folder.
+- Create memory-management folder & create README.md in its folder.
+- Create a modules folder & create README.md in its folder.
+- Create classes folder & create README.md in its folder.
+- Create iterators-and-generators folder & create README.md in its folder.
+- Create asynchronous folder & create README.md in its folder.
+- Create this-keyword folder & create README.md in its folder.
+- Create strict-mode folder & create README.md in its folder
+- Create operations-and-operators folder & create README.md in its folder
+- Create functions folder & create README.md in its folder
+- Create control-flow folder & README.md in its folder
+- Create loops-and-iterations folder & create README.md in its folder
+- Rename typeCasting folder to type-casting
+- create equality-comparisons folder & create README.md in its folder
+- Rename dataStructure folder to data-structures
+- rename datatypes folder to data-types
+- rename datatypes folder to data-types
+- create dataStructure folder & create README.md in its folder
+- create typeCasting folder && README.md in its folder
+- add info on README.md
+- add README.md in variables folder
+- add README.md in datatypes folder
+- add README to initial commit
