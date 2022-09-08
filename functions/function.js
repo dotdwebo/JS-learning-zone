@@ -32,3 +32,10 @@ function string(n){
 }
 
 string("hi");
+
+function yes(){
+    console.log("Yes!");
+}
+
+
+yes(); // Yes!
