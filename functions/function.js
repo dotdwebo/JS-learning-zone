@@ -38,4 +38,4 @@ function yes(){
 }
 
 
-yes(); // Yes!.
+yes(); // Yes!..
